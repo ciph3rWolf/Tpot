@@ -13,6 +13,7 @@
 - From the dashboard, click on resource groups, give it a name, and click on review and create
   
    <img width="1093" height="170" alt="image" src="https://github.com/user-attachments/assets/9e3037a0-7431-425e-8bff-97fb8cd3c407" />
+   
 
    <img width="753" height="760" alt="image" src="https://github.com/user-attachments/assets/68c3becd-74d0-44b1-9a3a-453e410f620f" />
 
@@ -25,8 +26,10 @@
 - Then click review and create > Create.
   
   <img width="103" height="122" alt="image" src="https://github.com/user-attachments/assets/e186a1aa-59ab-4757-94db-bc1eda3da6fb" />
+  
 
   <img width="864" height="659" alt="image" src="https://github.com/user-attachments/assets/f87210ac-b73d-4ebd-bab5-310ce8b45e36" />
+  
 
   <img width="812" height="785" alt="image" src="https://github.com/user-attachments/assets/13977386-8f49-4418-a7a2-fa3bf59e59a1" />
 
